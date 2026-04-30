@@ -1,7 +1,7 @@
 <h2>👋 Hi, I'm Soubhagya</h2>
 
 <p>
-I'm currently pursuing a degree in Computer Science, with a strong focus on programming and the fundamentals of AI.  
+I'm currently pursuing BCA, with a strong focus on programming and the fundamentals of AI.  
 I enjoy building structured solutions, exploring how systems work, and continuously improving my problem-solving approach through practical development.
 </p>
 
