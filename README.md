@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Soubhagyakanta</h2>
+<h2>👋 Hi, I'm Soubhagya</h2>
 
 <p>
 I'm currently pursuing a degree in Computer Science, with a strong focus on programming and the fundamentals of AI.  
