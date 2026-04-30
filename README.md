@@ -10,9 +10,8 @@ I enjoy building structured solutions, exploring how systems work, and continuou
 HTML • CSS • JavaScript • C • Python
 </p>
 
-<h3>📫 Connect with me</h3>
-<p>
-<a href="www.linkedin.com/in/soubhagyakanta-palai-a0942637a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+## Connect with me!
+ 
+<a href="https://www.linkedin.com/in/soubhagyakanta-palai-a0942637a/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
