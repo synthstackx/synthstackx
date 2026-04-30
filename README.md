@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2>👋 Hi, I'm Soubhagyakanta</h2>
 
-<!--
-**synthstackx/synthstackx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I'm currently pursuing a degree in Computer Science, with a strong focus on programming and the fundamentals of AI.  
+I enjoy building structured solutions, exploring how systems work, and continuously improving my problem-solving approach through practical development.
+</p>
 
-Here are some ideas to get you started:
+<h3>🛠 Tools I use</h3>
+<p>
+HTML • CSS • JavaScript • C • Python
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>📫 Connect with me</h3>
+<p>
+<a href="www.linkedin.com/in/soubhagyakanta-palai-a0942637a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
